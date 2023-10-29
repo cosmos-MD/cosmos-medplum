@@ -1,5 +1,5 @@
 This is a fork of github.com/medplum - we will look to contribute our work upstream and minimize the "fork" deltas, meanwhile provides a stable point to develop cosmosMD solutions from. 
-
+Refer to https://www.medplum.com/docs/contributing/run-the-stack
 
 #### Folder structure
 
